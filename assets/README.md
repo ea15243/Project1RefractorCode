@@ -1,3 +1,4 @@
 # Code Refactor Starter Code
-
-Fixed most issues with Code.
+Added more Semantic Tags.
+Fixed broken link in Nav Bar.
+Fixed Css Codes.
